@@ -2,51 +2,63 @@
 
 # 🐍 Simple Python Projects
 
-[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg?style=for-the-badge)](LICENSE)
-[![GitHub Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+[![GitHub Stars](https://img.shields.io/github/stars/Mr74nX/simple_projects?style=for-the-badge&color=gold)](https://github.com/Mr74nX/simple_projects/stargazers)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)](https://github.com/Mr74nX/simple_projects/pulls)
 
-*A curated collection of lightweight Python utility scripts and automation tools designed for learning, quick reference, and open-source collaboration.*
+*A clean, modern, and open-source collection of useful Python scripts and utilities.*
 
 </div>
 
 ---
 
-## 🧭 About The Repository
+## 📌 Overview
 
-This repository serves as a growing collection of clean, independent, and beginner-friendly Python scripts. Each script is self-contained and showcases standard library usage, practical logic, and readable code structure. 
+Welcome to **simple_projects**! This repository is a collection of lightweight, self-contained Python scripts designed for quick reference, learning, and everyday tasks.
 
-Whether you are starting out with Python or looking for handy utility snippets, feel free to explore, clone, and build upon them!
+- ⚡ **Lightweight & Fast:** Built using standard Python modules.
+- 🎯 **Beginner Friendly:** Clear variable naming and documented code logic.
+- 🔓 **Open Source:** Free to use, modify, and distribute.
 
 ---
 
-## ⚡ Quick Start & Usage
+## 🚀 Getting Started
 
-Getting started with any script in this repository takes just a few seconds:
+### Prerequisites
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Mr74nX/simple_projects.git](https://github.com/Mr74nX/simple_projects.git)
-Navigate into the project directory:
+Make sure you have **Python 3.x** installed on your system.
+```bash
+python --version
+Installation & Execution
+Clone the repository:
+
+Bash
+git clone [https://github.com/Mr74nX/simple_projects.git](https://github.com/Mr74nX/simple_projects.git)
+Navigate into the directory:
 
 Bash
 cd simple_projects
-Run any Python script:
+Run any script directly:
 
 Bash
-python <filename>.py
+python <script_name>.py
 🤝 Contributing
-Contributions, bug fixes, and new script additions are always welcome! If you want to contribute:
+Contributions are what make the open-source community an amazing place to learn, inspire, and create! Any contributions you make are greatly appreciated.
 
-Fork this repository.
+Fork the Project
 
-Create your feature branch (git checkout -b feature/AmazingScript).
+Create your Feature Branch (git checkout -b feature/NewScript)
 
-Commit your changes (git commit -m 'Add some AmazingScript').
+Commit your Changes (git commit -m 'Add a new Python script')
 
-Push to the branch (git push origin feature/AmazingScript).
+Push to the Branch (git push origin feature/NewScript)
 
-Open a Pull Request.
+Open a Pull Request
 
-🛡️ License
-This project is open-source and available under the GNU General Public License v2.0.
+📜 License
+Distributed under the GNU General Public License v2.0. See LICENSE for more information.
+
+Made with ❤️ by Mr Tan
+
+⭐ If you find this repository helpful, don't forget to give it a star!
