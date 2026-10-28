@@ -30,35 +30,49 @@ Welcome to **simple_projects**! This repository is a collection of lightweight, 
 Make sure you have **Python 3.x** installed on your system.
 ```bash
 python --version
-Installation & Execution
-Clone the repository:
+```
 
-Bash
-git clone [https://github.com/Mr74nX/simple_projects.git](https://github.com/Mr74nX/simple_projects.git)
-Navigate into the directory:
+### Installation & Execution
 
-Bash
-cd simple_projects
-Run any script directly:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Mr74nX/simple_projects.git
+   ```
 
-Bash
-python <script_name>.py
-🤝 Contributing
-Contributions are what make the open-source community an amazing place to learn, inspire, and create! Any contributions you make are greatly appreciated.
+2. **Navigate into the directory:**
+   ```bash
+   cd simple_projects
+   ```
 
-Fork the Project
+3. **Run any script directly:**
+   ```bash
+   python <script_name>.py
+   ```
 
-Create your Feature Branch (git checkout -b feature/NewScript)
+---
 
-Commit your Changes (git commit -m 'Add a new Python script')
+## 🤝 Contributing
 
-Push to the Branch (git push origin feature/NewScript)
+Contributions are what make the open-source community an amazing place to learn, inspire, and create! Any contributions you make are **greatly appreciated**.
 
-Open a Pull Request
+1. **Fork** the Project
+2. Create your Feature Branch (`git checkout -b feature/NewScript`)
+3. Commit your Changes (`git commit -m 'Add a new Python script'`)
+4. Push to the Branch (`git push origin feature/NewScript`)
+5. Open a **Pull Request**
 
-📜 License
-Distributed under the GNU General Public License v2.0. See LICENSE for more information.
+---
 
-Made with ❤️ by Mr Tan
+## 📜 License
+
+Distributed under the **GNU General Public License v2.0**. See `LICENSE` for more information.
+
+---
+
+<div align="center">
+
+Made with ❤️ by **[Mr Tan](https://github.com/Mr74nX)**
 
 ⭐ If you find this repository helpful, don't forget to give it a star!
+
+</div>
